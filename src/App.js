@@ -9,6 +9,7 @@ import { Transactions } from './components/Transactions';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid } from 'recharts';
 import { PieChart, Pie, Cell, ResponsiveContainer } from 'recharts';
 
+
 const Header = styled(Typography)`
   font-size: 3rem;
   color: #fff;
